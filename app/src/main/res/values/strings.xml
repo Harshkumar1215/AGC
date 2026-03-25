@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AGC PYQ</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_pyq">PYQ</string>
+    <string name="nav_notification">Notifications</string>
+    <string name="nav_about">About</string>
+</resources>
